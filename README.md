@@ -13,3 +13,6 @@
 *   [第3章: リアルタイム画像認識 - Webカメラで世界を認識する](./chapter3.md)
 *   [第4章: 物体検出 - 画像の中の物体を見つけ出す](./chapter4.md)
 *   [第5章: 独自のモデル作成 - 転移学習でAIを賢くする](./chapter5.md)
+
+## 更新履歴
+* 3a1b632 Add buttons for "Category C", update JavaScript to handle Category C, and automate prediction after training completion
