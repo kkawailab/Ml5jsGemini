@@ -15,4 +15,8 @@
 *   [第5章: 独自のモデル作成 - 転移学習でAIを賢くする](./chapter5.md)
 
 ## 更新履歴
-* 3a1b632 Add buttons for "Category C", update JavaScript to handle Category C, and automate prediction after training completion
+
+-   **2025-09-27**
+    -   カテゴリCのボタンを追加
+    -   カテゴリCを扱うようにJavaScriptを更新
+    -   学習完了後に自動で予測を開始するように変更
